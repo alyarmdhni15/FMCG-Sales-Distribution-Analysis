@@ -1,0 +1,121 @@
+outlet_id,outlet_name,outlet_type,region,city
+1,Minimarket Jakarta Timur 1,General Trade,Jakarta,Jakarta Timur
+2,Toko Bandung 2,General Trade,Jawa Barat,Bandung
+3,Warung Binjai 3,Modern Trade,Sumatera Utara,Binjai
+4,Minimarket Lubuklinggau 4,General Trade,Sumatera Selatan,Lubuklinggau
+5,Minimarket Bogor 5,Modern Trade,Jawa Barat,Bogor
+6,Swalayan Solo 6,General Trade,Jawa Tengah,Solo
+7,Warung Kediri 7,Modern Trade,Jawa Timur,Kediri
+8,Warung Surabaya 8,General Trade,Jawa Timur,Surabaya
+9,Minimarket Medan 9,General Trade,Sumatera Utara,Medan
+10,Swalayan Kediri 10,General Trade,Jawa Timur,Kediri
+11,Warung Makassar 11,Modern Trade,Sulawesi,Makassar
+12,Warung Kediri 12,General Trade,Jawa Timur,Kediri
+13,Minimarket Banjarmasin 13,Modern Trade,Kalimantan,Banjarmasin
+14,Toko Makassar 14,Modern Trade,Sulawesi,Makassar
+15,Minimarket Magelang 15,General Trade,Jawa Tengah,Magelang
+16,Swalayan Bekasi 16,General Trade,Jawa Barat,Bekasi
+17,Toko Medan 17,General Trade,Sumatera Utara,Medan
+18,Warung Palembang 18,General Trade,Sumatera Selatan,Palembang
+19,Toko Solo 19,General Trade,Jawa Tengah,Solo
+20,Toko Magelang 20,General Trade,Jawa Tengah,Magelang
+21,Warung Surabaya 21,Modern Trade,Jawa Timur,Surabaya
+22,Warung Jakarta Timur 22,General Trade,Jakarta,Jakarta Timur
+23,Warung Jakarta Pusat 23,General Trade,Jakarta,Jakarta Pusat
+24,Minimarket Surabaya 24,Modern Trade,Jawa Timur,Surabaya
+25,Swalayan Bogor 25,Modern Trade,Jawa Barat,Bogor
+26,Swalayan Semarang 26,Modern Trade,Jawa Tengah,Semarang
+27,Minimarket Binjai 27,Modern Trade,Sumatera Utara,Binjai
+28,Warung Binjai 28,General Trade,Sumatera Utara,Binjai
+29,Minimarket Makassar 29,Modern Trade,Sulawesi,Makassar
+30,Toko Bekasi 30,Modern Trade,Jawa Barat,Bekasi
+31,Toko Surabaya 31,Modern Trade,Jawa Timur,Surabaya
+32,Toko Surabaya 32,General Trade,Jawa Timur,Surabaya
+33,Minimarket Bogor 33,General Trade,Jawa Barat,Bogor
+34,Minimarket Makassar 34,General Trade,Sulawesi,Makassar
+35,Swalayan Malang 35,Modern Trade,Jawa Timur,Malang
+36,Swalayan Bandung 36,General Trade,Jawa Barat,Bandung
+37,Swalayan Banjarmasin 37,Modern Trade,Kalimantan,Banjarmasin
+38,Swalayan Bandung 38,General Trade,Jawa Barat,Bandung
+39,Minimarket Bandung 39,Modern Trade,Jawa Barat,Bandung
+40,Swalayan Makassar 40,Modern Trade,Sulawesi,Makassar
+41,Minimarket Binjai 41,Modern Trade,Sumatera Utara,Binjai
+42,Toko Makassar 42,Modern Trade,Sulawesi,Makassar
+43,Minimarket Bandung 43,General Trade,Jawa Barat,Bandung
+44,Minimarket Manado 44,General Trade,Sulawesi,Manado
+45,Swalayan Jakarta Pusat 45,Modern Trade,Jakarta,Jakarta Pusat
+46,Swalayan Banjarmasin 46,General Trade,Kalimantan,Banjarmasin
+47,Minimarket Banjarmasin 47,Modern Trade,Kalimantan,Banjarmasin
+48,Toko Medan 48,Modern Trade,Sumatera Utara,Medan
+49,Toko Palembang 49,General Trade,Sumatera Selatan,Palembang
+50,Toko Semarang 50,Modern Trade,Jawa Tengah,Semarang
+51,Toko Bogor 51,Modern Trade,Jawa Barat,Bogor
+52,Minimarket Balikpapan 52,Modern Trade,Kalimantan,Balikpapan
+53,Warung Bekasi 53,General Trade,Jawa Barat,Bekasi
+54,Warung Kediri 54,Modern Trade,Jawa Timur,Kediri
+55,Minimarket Binjai 55,General Trade,Sumatera Utara,Binjai
+56,Toko Manado 56,Modern Trade,Sulawesi,Manado
+57,Toko Makassar 57,Modern Trade,Sulawesi,Makassar
+58,Warung Medan 58,Modern Trade,Sumatera Utara,Medan
+59,Warung Malang 59,Modern Trade,Jawa Timur,Malang
+60,Toko Manado 60,General Trade,Sulawesi,Manado
+61,Warung Bandung 61,Modern Trade,Jawa Barat,Bandung
+62,Minimarket Bogor 62,General Trade,Jawa Barat,Bogor
+63,Warung Medan 63,Modern Trade,Sumatera Utara,Medan
+64,Warung Binjai 64,Modern Trade,Sumatera Utara,Binjai
+65,Swalayan Bogor 65,General Trade,Jawa Barat,Bogor
+66,Warung Jakarta Pusat 66,Modern Trade,Jakarta,Jakarta Pusat
+67,Swalayan Medan 67,General Trade,Sumatera Utara,Medan
+68,Toko Jakarta Pusat 68,Modern Trade,Jakarta,Jakarta Pusat
+69,Minimarket Jakarta Selatan 69,General Trade,Jakarta,Jakarta Selatan
+70,Warung Semarang 70,General Trade,Jawa Tengah,Semarang
+71,Minimarket Jakarta Selatan 71,Modern Trade,Jakarta,Jakarta Selatan
+72,Swalayan Bekasi 72,Modern Trade,Jawa Barat,Bekasi
+73,Minimarket Surabaya 73,General Trade,Jawa Timur,Surabaya
+74,Warung Jakarta Pusat 74,General Trade,Jakarta,Jakarta Pusat
+75,Minimarket Malang 75,Modern Trade,Jawa Timur,Malang
+76,Swalayan Balikpapan 76,Modern Trade,Kalimantan,Balikpapan
+77,Warung Malang 77,General Trade,Jawa Timur,Malang
+78,Toko Surabaya 78,Modern Trade,Jawa Timur,Surabaya
+79,Warung Banjarmasin 79,Modern Trade,Kalimantan,Banjarmasin
+80,Swalayan Binjai 80,General Trade,Sumatera Utara,Binjai
+81,Warung Jakarta Pusat 81,Modern Trade,Jakarta,Jakarta Pusat
+82,Toko Medan 82,General Trade,Sumatera Utara,Medan
+83,Swalayan Lubuklinggau 83,Modern Trade,Sumatera Selatan,Lubuklinggau
+84,Warung Balikpapan 84,Modern Trade,Kalimantan,Balikpapan
+85,Minimarket Balikpapan 85,General Trade,Kalimantan,Balikpapan
+86,Warung Balikpapan 86,General Trade,Kalimantan,Balikpapan
+87,Warung Bogor 87,General Trade,Jawa Barat,Bogor
+88,Swalayan Banjarmasin 88,General Trade,Kalimantan,Banjarmasin
+89,Swalayan Semarang 89,General Trade,Jawa Tengah,Semarang
+90,Warung Magelang 90,General Trade,Jawa Tengah,Magelang
+91,Warung Jakarta Selatan 91,Modern Trade,Jakarta,Jakarta Selatan
+92,Swalayan Banjarmasin 92,General Trade,Kalimantan,Banjarmasin
+93,Swalayan Makassar 93,Modern Trade,Sulawesi,Makassar
+94,Warung Bekasi 94,Modern Trade,Jawa Barat,Bekasi
+95,Warung Kediri 95,Modern Trade,Jawa Timur,Kediri
+96,Toko Surabaya 96,Modern Trade,Jawa Timur,Surabaya
+97,Toko Malang 97,General Trade,Jawa Timur,Malang
+98,Swalayan Balikpapan 98,General Trade,Kalimantan,Balikpapan
+99,Minimarket Balikpapan 99,Modern Trade,Kalimantan,Balikpapan
+100,Minimarket Bekasi 100,Modern Trade,Jawa Barat,Bekasi
+101,Minimarket Makassar 101,Modern Trade,Sulawesi,Makassar
+102,Swalayan Makassar 102,General Trade,Sulawesi,Makassar
+103,Swalayan Manado 103,Modern Trade,Sulawesi,Manado
+104,Warung Manado 104,Modern Trade,Sulawesi,Manado
+105,Minimarket Binjai 105,General Trade,Sumatera Utara,Binjai
+106,Warung Makassar 106,Modern Trade,Sulawesi,Makassar
+107,Warung Binjai 107,Modern Trade,Sumatera Utara,Binjai
+108,Minimarket Semarang 108,General Trade,Jawa Tengah,Semarang
+109,Minimarket Magelang 109,Modern Trade,Jawa Tengah,Magelang
+110,Warung Banjarmasin 110,General Trade,Kalimantan,Banjarmasin
+111,Minimarket Balikpapan 111,General Trade,Kalimantan,Balikpapan
+112,Swalayan Balikpapan 112,General Trade,Kalimantan,Balikpapan
+113,Warung Jakarta Selatan 113,General Trade,Jakarta,Jakarta Selatan
+114,Swalayan Balikpapan 114,Modern Trade,Kalimantan,Balikpapan
+115,Swalayan Binjai 115,Modern Trade,Sumatera Utara,Binjai
+116,Swalayan Banjarmasin 116,Modern Trade,Kalimantan,Banjarmasin
+117,Toko Makassar 117,General Trade,Sulawesi,Makassar
+118,Swalayan Jakarta Pusat 118,Modern Trade,Jakarta,Jakarta Pusat
+119,Toko Makassar 119,General Trade,Sulawesi,Makassar
+120,Minimarket Banjarmasin 120,General Trade,Kalimantan,Banjarmasin

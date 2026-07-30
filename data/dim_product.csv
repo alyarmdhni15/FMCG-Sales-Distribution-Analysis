@@ -1,0 +1,29 @@
+product_id,product_name,category,sub_category,brand,unit_price
+1,Nuansa Sabun Mandi,Personal Care,Sabun Mandi,Nuansa,50000
+2,Harmoni Sabun Mandi,Personal Care,Sabun Mandi,Harmoni,20000
+3,Ceria Sampo,Personal Care,Sampo,Ceria,11000
+4,Harmoni Sampo,Personal Care,Sampo,Harmoni,50000
+5,Nuansa Pasta Gigi,Personal Care,Pasta Gigi,Nuansa,40000
+6,Harmoni Pasta Gigi,Personal Care,Pasta Gigi,Harmoni,30000
+7,Nuansa Deodoran,Personal Care,Deodoran,Nuansa,8000
+8,Harmoni Deodoran,Personal Care,Deodoran,Harmoni,16000
+9,Ceria Lotion,Personal Care,Lotion,Ceria,38000
+10,Nuansa Lotion,Personal Care,Lotion,Nuansa,15000
+11,Harmoni Kecap,Food & Beverage,Kecap,Harmoni,17000
+12,Rumahku Kecap,Food & Beverage,Kecap,Rumahku,31000
+13,Harmoni Susu Bubuk,Food & Beverage,Susu Bubuk,Harmoni,3000
+14,Segar Alam Susu Bubuk,Food & Beverage,Susu Bubuk,Segar Alam,13000
+15,Rumahku Teh Celup,Food & Beverage,Teh Celup,Rumahku,20000
+16,Segar Alam Teh Celup,Food & Beverage,Teh Celup,Segar Alam,12000
+17,Ceria Mi Instan,Food & Beverage,Mi Instan,Ceria,9000
+18,Segar Alam Mi Instan,Food & Beverage,Mi Instan,Segar Alam,8000
+19,Rumahku Minyak Goreng,Food & Beverage,Minyak Goreng,Rumahku,25000
+20,Nuansa Minyak Goreng,Food & Beverage,Minyak Goreng,Nuansa,25000
+21,Harmoni Deterjen,Household,Deterjen,Harmoni,5000
+22,Segar Alam Deterjen,Household,Deterjen,Segar Alam,49000
+23,Rumahku Pewangi Pakaian,Household,Pewangi Pakaian,Rumahku,27000
+24,Nuansa Pewangi Pakaian,Household,Pewangi Pakaian,Nuansa,8000
+25,Harmoni Sabun Cuci Piring,Household,Sabun Cuci Piring,Harmoni,43000
+26,Segar Alam Sabun Cuci Piring,Household,Sabun Cuci Piring,Segar Alam,42000
+27,Segar Alam Pembersih Lantai,Household,Pembersih Lantai,Segar Alam,48000
+28,Ceria Pembersih Lantai,Household,Pembersih Lantai,Ceria,7000
