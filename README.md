@@ -37,7 +37,7 @@ Management wanted a clearer picture of **overall sales performance across catego
 
 ## 📊 Dashboard Preview
 
-![FMCG Dashboard](powerbi/fmcg_dashboard.jpeg)
+![FMCG Dashboard](powerbi/fmcg_dashboard.png)
 
 ## 💡 Key Insights & Recommendations
 
