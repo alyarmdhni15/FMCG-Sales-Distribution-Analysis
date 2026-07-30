@@ -47,13 +47,13 @@ Management wanted a clearer picture of **overall sales performance across catego
 - 📦 **Segar Alam Teh Celup** recorded the highest out-of-stock rate among all SKUs (**1.37%**) — recommended as a priority for replenishment review.
 
 ## 📁 Repository Structure
-
+```
 ├── data/       → Dummy dataset (CSV) — dimension & fact tables
 ├── scripts/    → Python script for synthetic data generation
 ├── sql/        → SQL queries (analysis + data prep for Excel/Power BI)
 ├── excel/      → Excel workbook (pivot tables, KPI, executive summary)
 └── powerbi/    → Power BI dashboard (.pbix) + preview screenshot
-
+```
 ---
 
 📌 *This project was built as part of my data analyst / BI analyst portfolio. Feel free to explore the files above for the full workflow.*
